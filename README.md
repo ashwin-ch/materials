@@ -1,4 +1,11 @@
+# References
+- quickref.me
+- roadmap.sh
+
+
 # materials
+
+
 
 Kalman filter:
 - https://www.kalmanfilter.net/default.aspx (useful to understand)
